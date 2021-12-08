@@ -1,0 +1,22 @@
+{
+  "name": "fse_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hello_node_js.js",
+  "scripts": {
+    "hello": "node Hello_node_js",
+    "core_os": "node os_core_module.js",
+    "fs_demo": "node fs_module_demo.js",
+    "path_demo": "path_module_demo.js",
+    "buffer_demo": "buffer_module_demo.js",
+    "http_demo": "http_module_demo.js",
+    "url_demo": "url_module",
+	"express_nodemon":"nodemon nodemon_module_demo.js"
+  },
+  "author": "Laxmi Kanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
